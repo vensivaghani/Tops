@@ -1,0 +1,59 @@
+{
+  "info": {
+    "_postman_id": "2f92dd54-4112-420c-a700-aa56f6d5f321",
+    "name": "ASSIGNMENT MODULE-10",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52963808",
+    "_collection_link": "https://go.postman.co/collection/52963808-2f92dd54-4112-420c-a700-aa56f6d5f321?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "1)user registration",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "2)user login",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "3)Admin Api",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "4)Add categories",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "5)view categories",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "6)Delete categories",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
